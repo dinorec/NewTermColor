@@ -1,0 +1,8 @@
+Origin: dcsyhi's repo
+Label: dcsyhi
+Suite: stable
+Version: 1.0
+Codename: dcsyhi
+Architectures: iphoneos-arm
+Components: main
+Description: dcsyhi'sのリポジトリ
